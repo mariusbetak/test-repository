@@ -8,5 +8,6 @@ namespace _30_augusts
 {
     internal class Class1
     {
+        serea wre
     }
 }
